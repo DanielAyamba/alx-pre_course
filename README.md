@@ -1,3 +1,2 @@
 My first readme  
-Daniel Ayamba
-It's good to collaborate
+My first readme update
